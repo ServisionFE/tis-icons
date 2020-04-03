@@ -1,0 +1,22 @@
+{
+  "name": "tis-icons",
+  "version": "0.0.1",
+  "description": "icons",
+  "main": "./lib/iconfont.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linknode/tis-icons.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "bugong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linknode/tis-icons/issues"
+  },
+  "homepage": "https://github.com/linknode/tis-icons#readme"
+}
