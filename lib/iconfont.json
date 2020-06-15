@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "15329148",
+      "name": "book",
+      "font_class": "book1",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "15329149",
+      "name": "time",
+      "font_class": "time1",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "15194074",
+      "name": "Battery",
+      "font_class": "battery",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
       "icon_id": "13852519",
       "name": "add-cart",
       "font_class": "add-cart",
