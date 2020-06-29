@@ -1,6 +1,6 @@
 {
   "name": "tis-icons",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "icons",
   "main": "./lib/iconfont.js",
   "scripts": {
