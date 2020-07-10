@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "15829546",
+      "name": "dollar",
+      "font_class": "dollar",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
       "icon_id": "15603927",
       "name": "close",
       "font_class": "close",
